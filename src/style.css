@@ -1,0 +1,19 @@
+.img1{
+    width: 300px;
+    justify-content: center;
+    border-radius: 30%;
+    margin-top: 10px;
+    border: 2px ridge violet;
+}
+
+div{
+    text-align: center;
+}
+
+h1{
+    color: teal;
+}
+h2{
+    font-family: monospace;
+}
+
